@@ -1,4 +1,4 @@
-# Log Parser to CSV Converter
+# Log Parser to Excel Converter
 
 Python utility for parsing ASCII table-formatted model specification logs and converting them to structured CSV output. Automatically categorizes models by parameter size and sorts data for analysis.
 
